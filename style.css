@@ -1,0 +1,44 @@
+
+#contain{
+    background-color: white;
+    margin-top: 10px;
+}
+
+
+
+#click{
+    margin-left: 20%;
+    border: 2px solid wheat;
+    width: 250px;
+    border: 2px solid white;
+}
+#column2{
+    width: 250px;
+    margin-left: 20%;
+    border: 2px solid white;
+}
+
+#column3{
+    width: 250px;
+    margin-left: 20%;
+    border: 2px solid white;
+}
+#column4{
+    width: 250px; 
+    margin-left: 20%;
+    border: 2px solid white;
+}
+
+#contain{
+    height: 55vh;
+    /* border: 2px solid black; */
+    border-radius: 2px;
+    width: 500px;
+    margin-left: 100px;
+    text-align: center;
+}
+
+#screen{
+    margin-top: -50px;
+    height: 200px;
+}
